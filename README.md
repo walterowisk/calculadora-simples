@@ -15,7 +15,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/walterowisk/calculadora-simples">
   <a href="https://github.com/walterowisk/calculadora-simples/commits/master">
     <img alt="Last commit date" src="https://img.shields.io/github/last-commit/walterowisk/calculadora-simples">
-
   </a>
   <img alt="License" src="https://img.shields.io/github/license/walterowisk/calculadora-simples">
 </p>
@@ -39,11 +38,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-Uma calculadora de layout simples capaz de calcular com as 4 operações básicas da matemática. O resultado do operação vem acompanhado de um pequeno texto informativo.
+Uma calculadora de layout simples capaz de calcular as 4 operações básicas da matemática. O resultado da operação vem acompanhado de um pequeno texto informativo.
 
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
-
